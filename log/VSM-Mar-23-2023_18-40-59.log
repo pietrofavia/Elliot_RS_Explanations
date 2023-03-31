@@ -1,0 +1,8 @@
+2023-03-23 18:41:00.688920: I Loading parameters
+2023-03-23 18:41:00.688920: I Parameter similarity set to dot
+2023-03-23 18:41:00.688920: I Parameter user_profile set to tfidf
+2023-03-23 18:41:00.688920: I Parameter item_profile set to tfidf
+2023-03-23 18:41:00.688920: I Parameter loader set to ChainedKG
+2023-03-23 18:41:03.341184: I The similarity computation has taken: 0.10204386711120605
+2023-03-23 18:41:06.508183: I Finished
+2023-03-23 18:41:06.508183: I ******************************************

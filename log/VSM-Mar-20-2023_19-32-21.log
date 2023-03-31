@@ -1,0 +1,5 @@
+2023-03-20 19:32:23.988901: I Loading parameters
+2023-03-20 19:32:23.988901: I Parameter similarity set to cosine
+2023-03-20 19:32:23.988901: I Parameter user_profile set to tfidf
+2023-03-20 19:32:23.988901: I Parameter item_profile set to tfidf
+2023-03-20 19:32:23.988901: I Parameter loader set to ChainedKG

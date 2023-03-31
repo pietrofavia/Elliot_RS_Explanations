@@ -1,0 +1,5 @@
+2023-03-27 19:01:32.548087: I Loading parameters
+2023-03-27 19:01:32.548087: I Parameter neighbors set to 10
+2023-03-27 19:01:32.548087: I Parameter similarity set to cosine
+2023-03-27 19:01:32.549087: I Parameter implicit set to False
+2023-03-27 19:01:32.549087: I Parameter loader set to ChainedKG
